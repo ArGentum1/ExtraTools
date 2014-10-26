@@ -1,0 +1,13 @@
+
+
+/.gradle
+/build
+/eclipse
+/gradlew.bat
+
+*.iml
+*.ipr
+*.iws
+
+*.log
+*.lck

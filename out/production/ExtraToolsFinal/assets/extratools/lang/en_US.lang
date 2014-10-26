@@ -1,0 +1,53 @@
+
+# Keys
+keys.extratools.category=Extra Tools
+keys.extratools.charge=Charge
+keys.extratools.relase=Relase
+
+# Items
+item.extratools:ironPlating.name=Iron Armor Plating
+item.extratools:ironChain.name=Iron Chain
+item.extratools:rainbowniumIngot.name=Rainbownium Ingot
+item.extratools:rainbowniumAxe.name=Rainbownium Axe
+item.extratools:rainbowniumHoe.name=Rainbownium Hoe
+item.extratools:rainbowniumPickaxe.name=Rainbownium Pickaxe
+item.extratools:rainbowniumShovel.name=Rainbownium Shovel
+item.extratools:rainbowniumSword.name=Rainbownium Sword
+item.extratools:jarkoniumAxe.name=Jarkonium Axe
+item.extratools:jarkoniumHoe.name=Jarkonium Hoe
+item.extratools:jarkoniumPickaxe.name=Jarkonium Pickaxe
+item.extratools:jarkoniumShovel.name=Jarkonium Shovel
+item.extratools:jarkoniumSword.name=Jarkonium Sword
+item.extratools:ringBasic.name=Golden Ring
+item.extratools:amuletBasic.name=Golden Amulet
+item.extratools:beltBasic.name=Belt
+item.extratools:ringAlloy.name=Ring Alloy Ingot
+
+# Blocks
+tile.extratools:ironPlatingBlock.name=Iron Armor Plating Block
+tile.extratools:rainbowniumBlock.name=Rainbownium Block
+
+
+# Creative Tabs
+itemGroup.extratoolsResources=Extra Tools Resources
+itemGroup.extratoolsTools=Extra Tools Tools and Armor
+
+#Thaumcraft
+
+#Category
+tc.research_category.ETTab=Extra Tools
+
+#Research Gold and Iron
+etname.RESEARCH_GOLD_IRON=Basic Metals
+ettext.RESEARCH_GOLD_IRON=Materials You're Starting With
+etpage.RESEARCH_GOLD_IRON.1=You don't know much about metals. Just a bit. You know how to smelt gold and iron into ingots and how to make tools out of them. At least out of iron. Gold tools are not durable enough for you, but they are very fast and highly enchantable.<BR>Maybe gold should be used for something else? Or maybe you have to find more durable form of gold? Probably both.
+
+#Research Basic Ring
+etname.RESEARCH_BASIC_RING=Basic Jewlery
+ettext.RESEARCH_BASIC_RING=Lovely golden things!
+etpage.RESEARCH_BASIC_RING.1=You found a way to utilize gold! You can shape it into useless, lovely things, which are, for now, completely useless. This things seem to absorb magic very well.
+
+#Research Ring Alloy
+etname.RESEARCH_RING_ALLOY=Ring Alloy
+ettext.RESEARCH_RING_ALLOY=To make rings cheaper
+etpage.RESEARCH_RING_ALLOY.1=Rings used to cost four gold ingots. Used to. With this alloy of gold and iron you can create ring out of two gold and two iron ingots.

@@ -1,13 +1,8 @@
 package com.jerzykwilczek.extratools.thaumcraft;
 
-import com.jerzykwilczek.extratools.init.ModItems;
-import com.jerzykwilczek.extratools.reference.Reference;
-import net.minecraft.item.ItemStack;
-import thaumcraft.api.aspects.Aspect;
-import thaumcraft.api.aspects.AspectList;
-import thaumcraft.api.research.ResearchItem;
+
 import thaumcraft.api.research.ResearchPage;
-import thaumcraft.common.lib.research.ResearchNoteData;
+
 
 public class testResearch
 
